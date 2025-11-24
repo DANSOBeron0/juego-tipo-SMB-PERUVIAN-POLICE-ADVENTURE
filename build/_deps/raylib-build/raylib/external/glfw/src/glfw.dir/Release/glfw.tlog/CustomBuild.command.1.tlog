@@ -1,0 +1,10 @@
+^C:\USERS\CLEVERNET\PROYECTOS C++\JUEGO_TIPO_MARIO\BUILD\_DEPS\RAYLIB-SRC\SRC\EXTERNAL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+C:\Users\clevernet\AppData\Local\Programs\Python\Python313\Lib\site-packages\cmake\data\bin\cmake.exe "-SC:/Users/clevernet/proyectos c++/juego_tipo_mario" "-BC:/Users/clevernet/proyectos c++/juego_tipo_mario/build" --check-stamp-file "C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

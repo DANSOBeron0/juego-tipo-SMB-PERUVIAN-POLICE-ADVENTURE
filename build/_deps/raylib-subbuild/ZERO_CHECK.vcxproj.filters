@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\clevernet\proyectos c++\juego_tipo_mario\build\_deps\raylib-subbuild\CMakeFiles\5375af1a0710ae44b3233a6c8f7815f3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B28BE6BF-889E-3CE2-99DF-1CF4367499B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

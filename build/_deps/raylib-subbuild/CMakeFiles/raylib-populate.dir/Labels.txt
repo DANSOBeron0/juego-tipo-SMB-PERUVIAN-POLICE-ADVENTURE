@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/5375af1a0710ae44b3233a6c8f7815f3/raylib-populate.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/ea68444d5bd3ee73afc4171f67a7408c/raylib-populate-complete.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/56b31710df21dcdad9b325c7e48ad7f3/raylib-populate-build.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/56b31710df21dcdad9b325c7e48ad7f3/raylib-populate-configure.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/56b31710df21dcdad9b325c7e48ad7f3/raylib-populate-download.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/56b31710df21dcdad9b325c7e48ad7f3/raylib-populate-install.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/56b31710df21dcdad9b325c7e48ad7f3/raylib-populate-mkdir.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/56b31710df21dcdad9b325c7e48ad7f3/raylib-populate-patch.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/56b31710df21dcdad9b325c7e48ad7f3/raylib-populate-test.rule
+C:/Users/clevernet/proyectos c++/juego_tipo_mario/build/_deps/raylib-subbuild/CMakeFiles/56b31710df21dcdad9b325c7e48ad7f3/raylib-populate-update.rule

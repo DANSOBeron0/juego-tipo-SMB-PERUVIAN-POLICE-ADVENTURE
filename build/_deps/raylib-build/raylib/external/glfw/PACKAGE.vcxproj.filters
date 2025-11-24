@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\clevernet\proyectos c++\juego_tipo_mario\build\CMakeFiles\271ae957570c672158df1dea8c80f76f\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4FF12827-34C5-3EBF-AB84-B3A26B4DA10E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
