@@ -1,4 +1,5 @@
-# Juego Tipo Mario - Alan Garcia Platformer
+# Juego Tipo SMB - PERUVIAN-POLICE-ADVENTURE
+
 
 Un juego de plataformas estilo Mario Bros desarrollado en C++ usando raylib.
 
